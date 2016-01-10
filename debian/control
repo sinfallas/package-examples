@@ -4,12 +4,12 @@ Priority: standard
 Maintainer: Jesus Palencia <sinfallas@gmail.com>
 Build-Depends: debhelper, cdbs
 Standards-Version: 3.9.6
-Homepage: https://xanadulinux.wordpress.com
+Homepage: https://sinfallas.wordpress.com
 
 Package: example-package
 Architecture: all
 Depends: base-files, ${misc:Depends}, ${shlibs:Depends}, ${perl:Depends}
-Replaces: dnsmasq,
-Recommends: xanadu-info
-Description: basepack
- Config files for use in xanadu
+Replaces: dnsmasq
+Recommends: tor
+Description: example
+ Example package
