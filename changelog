@@ -1,4 +1,22 @@
-commit 069d6a2f102c5fde34131ad57db3565e7fceacca (HEAD, origin/master, origin/HEAD, master)
+commit 29071e841bd7e6c598ba586e149c5974ecaee815 (HEAD -> master, tag: v0.1.1, origin/master, origin/HEAD)
+Author: Jose Perez <sinfallas@users.noreply.github.com>
+Date:   Thu Nov 23 07:07:41 2017 -0400
+
+    Update README.md
+
+commit e6f5b009043b1188cf5bd61b6437b608b981ed2d
+Author: Jose Perez <sinfallas@users.noreply.github.com>
+Date:   Thu Nov 23 07:05:40 2017 -0400
+
+    Add files via upload
+
+commit 65ff2682b7ad79f66a224f037a259c6640d83fac
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Dec 16 14:22:09 2016 -0400
+
+    * changelog
+
+commit 069d6a2f102c5fde34131ad57db3565e7fceacca
 Author: jose perez <sinfallas@gmail.com>
 Date:   Fri Dec 16 14:21:48 2016 -0400
 
