@@ -1,4 +1,16 @@
-commit 5f31698b41037194f0a8aecad62ccae962a5a32a (HEAD -> master, origin/master, origin/HEAD)
+commit 993ab55e9ac011b99e189cfcced2eb3e58c74a6d (HEAD -> master, origin/master, origin/HEAD)
+Author: config <Palencia>
+Date:   Tue Aug 4 21:31:39 2020 -0400
+
+    * bugfix
+
+commit 25f7b90d3c9a01f35790eb88b858b56492650ac0
+Author: config <Palencia>
+Date:   Tue Aug 4 21:20:46 2020 -0400
+
+    * changelog
+
+commit 5f31698b41037194f0a8aecad62ccae962a5a32a
 Author: config <Palencia>
 Date:   Tue Aug 4 21:20:24 2020 -0400
 
