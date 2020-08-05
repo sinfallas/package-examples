@@ -1,4 +1,16 @@
-commit 40508f433bc80f4c240001ed1bd84b40d066b458 (HEAD -> master, origin/master, origin/HEAD)
+commit 5f31698b41037194f0a8aecad62ccae962a5a32a (HEAD -> master, origin/master, origin/HEAD)
+Author: config <Palencia>
+Date:   Tue Aug 4 21:20:24 2020 -0400
+
+    * bugfix
+
+commit a429790360636da1dde009efcdf12671c9e504e7
+Author: config <Palencia>
+Date:   Mon Jul 6 22:03:57 2020 -0400
+
+    * changelog
+
+commit 40508f433bc80f4c240001ed1bd84b40d066b458
 Author: jose perez <sinfallas@gmail.com>
 Date:   Mon Apr 27 16:54:29 2020 -0400
 
