@@ -1,4 +1,10 @@
-commit 993ab55e9ac011b99e189cfcced2eb3e58c74a6d (HEAD -> master, origin/master, origin/HEAD)
+commit c3b246a1f90719d497c5348e59c2be39616e46c8 (HEAD -> master, origin/master, origin/HEAD)
+Author: config <Palencia>
+Date:   Tue Aug 4 21:31:55 2020 -0400
+
+    * changelog
+
+commit 993ab55e9ac011b99e189cfcced2eb3e58c74a6d
 Author: config <Palencia>
 Date:   Tue Aug 4 21:31:39 2020 -0400
 
